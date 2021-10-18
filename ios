@@ -1,0 +1,14 @@
+{
+   "code":1,
+   "message":"SUCCESS",
+   "data":[
+      {
+         "id":2,
+         "domain":"https://u2www.og36.net",
+         "webDomain":"https://u2www.og36.net",
+         "status":1,
+         "domainType":null,
+         "speed":"0.001"
+      }
+   ]
+}
